@@ -27,5 +27,3 @@ This is a simple Go-based calculator application that provides basic arithmetic 
    You can call the functions `Addition`, `Subtraction`, `Multiplication`, `Division`, and `Modular` in your Go programs to perform arithmetic operations.
 
 
-Make sure to replace `"https://github.com/yourusername/calculator-app.git"` with your actual repository URL if applicable.
-```
