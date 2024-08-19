@@ -1,17 +1,13 @@
-Here's a minimal `README.md` file for your project:
-
 ```markdown
-# Calculator App
+# Calculator-in-golang
 
 This is a simple Go-based calculator application that provides basic arithmetic operations: addition, subtraction, multiplication, division, and modular division.
-
-## Setup
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
-   cd calculator-app
+   git clone https://github.com/harshal-rembhotkar/Calculator-in-golang.git
+   cd Calculator-in-golang
    ```
 
 2. **Run the application:**
@@ -21,9 +17,5 @@ This is a simple Go-based calculator application that provides basic arithmetic 
    ```bash
    go run main.go
    ```
-
-3. **Usage:**
-
-   You can call the functions `Addition`, `Subtraction`, `Multiplication`, `Division`, and `Modular` in your Go programs to perform arithmetic operations.
 
 
