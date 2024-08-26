@@ -1,4 +1,3 @@
-```markdown
 # Calculator-in-golang
 
 This is a simple Go-based calculator application that provides basic arithmetic operations: addition, subtraction, multiplication, division, and modular division.
