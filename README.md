@@ -7,6 +7,9 @@ This is a simple Go-based calculator application that provides basic arithmetic 
 
    ```bash
    git clone https://github.com/harshal-rembhotkar/Calculator-in-golang.git
+   ```
+
+   ```bash
    cd Calculator-in-golang
    ```
 
