@@ -2,7 +2,7 @@
 
 ## ERC-721
 
-1. Use this IPFS URL for your Smart Contract (Updated) 👇
+1. Use this IPFS URL for your Smart Contract  👇
 
 `ipfs://QmY5rPqGTN1rZxMQg2ApiSZc7JiBNs1ryDzXPZpQhC1ibm/`
 
