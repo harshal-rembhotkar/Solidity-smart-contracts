@@ -1,4 +1,4 @@
-#Solidity smart contracts(ERC-20, ERC-721 AND ERC-721A Standards)
+# Solidity smart contracts(ERC-20, ERC-721 AND ERC-721A Standards)
 
 ## ERC-721
 
